@@ -80,6 +80,8 @@ Paste it in the file  `superset/docker/.env-non-dev` instead `TEST_NON_DEV_SECRE
 ``` bash
 SUPERSET_SECRET_KEY=TEST_NON_DEV_SECRET
 ```
+![Screenshot_78](https://github.com/6Ministers/superset-docker-compose-ssl-for-business/assets/11208423/7be40b6b-18dd-4eeb-9c5f-fc3c9b4242d8)
+
 
 **Run SuperSet:**
 
