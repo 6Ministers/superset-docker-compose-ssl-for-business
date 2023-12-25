@@ -1,0 +1,4 @@
+https://ss.6ministers.com:443 {
+    reverse_proxy 127.0.0.1:8088
+	encode zstd gzip
+}
