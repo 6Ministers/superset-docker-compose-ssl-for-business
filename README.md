@@ -67,6 +67,9 @@ services:
     network_mode: "host"
 ```
 
+![Screenshot_77](https://github.com/6Ministers/superset-docker-compose-ssl-for-business/assets/11208423/e59180c6-4245-4f88-a45e-83f44f068297)
+
+
 Create the code with the command
 ``` bash
 openssl rand -base64 42
