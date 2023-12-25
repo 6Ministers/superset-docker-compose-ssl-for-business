@@ -87,8 +87,8 @@ Run a specific version of Superset by first checking out the branch/tag, and the
 
 ``` bash
 git checkout 3.1
-TAG=3.1 docker compose -f docker-compose-non-dev.yml pull
-TAG=3.1 docker compose -f docker-compose-non-dev.yml up
+docker compose -f docker-compose-non-dev.yml pull
+docker compose -f docker-compose-non-dev.yml up
 ```
 
 Then open `https://superset.domain.com:` to access SuperSet
