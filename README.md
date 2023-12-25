@@ -97,6 +97,15 @@ Then open `https://superset.domain.com:` to access SuperSet
 
 
 
+Log in with the default username and password:
+
+``` bash
+username: admin
+```
+``` bash
+password: admin
+```
+
 ## SuperSet container management
 
 **Run SuperSet**:
