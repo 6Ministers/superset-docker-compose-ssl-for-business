@@ -93,6 +93,9 @@ docker compose -f docker-compose-non-dev.yml up
 
 Then open `https://superset.domain.com:` to access SuperSet
 
+![Screenshot_79](https://github.com/6Ministers/superset-docker-compose-ssl-for-business/assets/11208423/6fc9c4b3-e02a-403c-b1b0-14f7cc0d3fec)
+
+
 
 ## SuperSet container management
 
