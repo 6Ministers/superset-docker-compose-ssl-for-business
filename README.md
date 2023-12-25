@@ -86,9 +86,9 @@ SUPERSET_SECRET_KEY=TEST_NON_DEV_SECRET
 Run a specific version of Superset by first checking out the branch/tag, and then starting docker compose with the TAG variable. For example, to run the 3.1.0 version, run the following commands on Linux-based systems:
 
 ``` bash
-git checkout 3.1.0
-TAG=3.1.0 docker compose -f docker-compose-non-dev.yml pull
-TAG=3.1.0 docker compose -f docker-compose-non-dev.yml up
+git checkout 3.1
+TAG=3.1 docker compose -f docker-compose-non-dev.yml pull
+TAG=3.1 docker compose -f docker-compose-non-dev.yml up
 ```
 
 Then open `https://superset.domain.com:` to access SuperSet
