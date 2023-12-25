@@ -45,8 +45,6 @@ https://subdomain.your-domain:443 {
     reverse_proxy 127.0.0.1:8088
     tls admin@example.org
     encode zstd gzip
-
-...	
 }
 ```
 
