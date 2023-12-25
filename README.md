@@ -124,5 +124,6 @@ docker-compose-non-dev down
 
 ## Documentation
 https://superset.apache.org/docs/installation/installing-superset-using-docker-compose/
+
 https://github.com/apache/superset/tree/master
 
