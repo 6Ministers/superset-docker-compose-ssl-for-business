@@ -7,7 +7,7 @@
 ## 1. SuperSet Server Requirements
 From and more
 - 2 CPUs
-- 2 RAM 
+- 3 RAM 
 - 10 Gb 
 
 Run for Ubuntu 22.04
